@@ -431,3 +431,6 @@ var SliderStatus = true;
 	});
 
 })(jQuery);
+
+
+
